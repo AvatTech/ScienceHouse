@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - projectile
+  - Surface
+  - Potassium
+  - Container
+  - Acetone
+  - Acid
   layers:
   - Default
   - TransparentFX
